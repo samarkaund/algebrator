@@ -1,0 +1,176 @@
+rac_ur_a1) -1/3; 1
+rac_ur_a2) -0,2; 0,5
+rac_ur_a3) 1,5; 7/3
+rac_ur_a4) 2; 3,25
+rac_ur_a5) 2; 3
+rac_ur_a6) -3; -1
+rac_ur_a7) -10; -5; 0
+rac_ur_a8) -14; -7; 0
+rac_ur_a9) -1; 2; 6
+rac_ur_a10) -1; 1; 2
+rac_ur_a11) -3; -2; 2
+rac_ur_a12) -2; -1; 1
+rac_ur_a13) 0; 1,5; 3
+rac_ur_a14) 0; 4,5; 9
+rac_ur_a15) -1; 0; 5
+rac_ur_a16) -1; 0; 4
+rac_ur_a17) -3; sqrt(2); -sqrt(2)
+rac_ur_a18) 3; sqrt(3); -sqrt(3)
+rac_ur_a19) 2,5; -1; 1
+rac_ur_a20) -2; 0,5; 2
+rac_ur_a21) sqrt(2); -sqrt(2)
+rac_ur_a22) -2; 2; sqrt(3); -sqrt(3)
+rac_ur_a23) sqrt(2)/2; -sqrt(2)/2; 3; -3
+rac_ur_a24) sqrt(3)/3; -sqrt(3)/3; 2; -2
+rac_ur_a25) 3; 7
+rac_ur_a26) -4; 0
+rac_ur_b1) -2; 0; 1
+rac_ur_b2) -1; 0; 1
+rac_ur_b3) 1; 3; 6
+rac_ur_b4) -9; -3; -0,5
+rac_ur_b5) 0; 3
+rac_ur_b6) 0; 1; 5
+rac_ur_b7) sqrt(3)+2;  sqrt(3)-2;  sqrt(3)+1;  sqrt(3)-1
+rac_ur_b8) -1; 2; (1+sqrt(5))/2; (1-sqrt(5))/2
+rac_ur_b9) -3; 2; (-1+sqrt(21))/2; (-1-sqrt(21))/2
+rac_ur_b10) 3; 3+2sqrt(5); 3-2sqrt(5)
+rac_ur_b11) -2; 3
+rac_ur_b12) -2; 2
+rac_ur_b13) 0; 1
+rac_ur_b14) -1
+rac_ur_b15) 2; 3
+rac_ur_b16) 1; 2; 3
+rac_ur_b17) 0; 1; sqrt(2); -sqrt(2)
+rac_ur_b18) (5+sqrt(21))/2; (5-sqrt(21))/2
+rac_ur_b19) (-3+sqrt(33))/2; (-3-sqrt(33))/2
+rac_ur_b20) 0,5; 3,5
+rac_ur_b1_b) 0
+rac_ur_b2_b) 0
+rac_ur_b3_b) 3
+rac_ur_b4_b) -3; -0,5
+rac_ur_b5_b) 0
+rac_ur_b6_b) 0; 1
+rac_ur_b7_b) sqrt(3)-1
+rac_ur_b8_b) (1-sqrt(5))/2
+rac_ur_b9_b) -3; (-1-sqrt(21))/2
+rac_ur_b10_b) 3; 3+2sqrt(5)
+rac_ur_b11_b) -2
+rac_ur_b12_b) 2
+rac_ur_b13_b) 1
+rac_ur_b14_b) -1
+rac_ur_b15_b) 2
+rac_ur_b16_b) 2
+rac_ur_b17_b) -sqrt(2); 0
+rac_ur_b18_b) (5+sqrt(21))/2
+rac_ur_b19_b) (-3+sqrt(33))/2
+rac_ur_b20_b) 3,5
+rac_ur_c1) -1; 1/3; 3
+rac_ur_c2) 1
+rac_ur_c3) -5; -3
+rac_ur_c4) 2; 3
+rac_ur_c5) -0,5
+rac_ur_c6) 0,5; -0,5
+rac_ur_c7) -2; -1; 0
+rac_ur_c8) 2; 4
+rac_ur_c9) -
+rac_ur_c10) (1+sqrt(21))/2
+irr_ur_a1) -3
+irr_ur_a2) 1
+irr_ur_a3) -2
+irr_ur_a4) 9
+irr_ur_a5) 58
+irr_ur_b1) 1,4; 3
+irr_ur_b2) -4; 4
+irr_ur_b3) -1; 15
+irr_ur_b4) 2; 34
+irr_ur_b5) 5; 6
+irr_ur_b1_b) 3
+irr_ur_b2_b) 4
+irr_ur_b3_b) 15
+irr_ur_b4_b) 2
+irr_ur_b5_b) 5
+irr_ur_c1) 0
+irr_ur_c2) 0
+irr_ur_c3) -2
+irr_ur_c4) 63/13
+irr_ur_c5) 12
+mod_ur_a1) 3; -3
+mod_ur_a2) 0,25; 0,75
+mod_ur_a3) 0,75; -0,75
+mod_ur_a4) 0
+mod_ur_a5) -5
+mod_ur_b1) -4/3; 0; 2/3; 2
+mod_ur_b1_b) 0; 2/3
+mod_ur_b2) -5; -3; 1; 3
+mod_ur_b2_b) -3; 1
+mod_ur_b3) sqrt(3); 1
+mod_ur_b3_b) sqrt(3)
+mod_ur_b4) -2; 0
+mod_ur_b4_b) 0
+mod_ur_b5) -1; 1; -2; 2
+mod_ur_b5_b) -1; 1
+mod_ur_c1) 0; 2; 4; 6
+mod_ur_c2) -9; -3; 1; 7
+mod_ur_c3) 1
+mod_ur_c4) 4; -4; 2; -2
+mod_ur_c5) -11/3; 1; 9
+poc_ur_a1) 3
+poc_ur_a2) 1,5
+poc_ur_a3) 4
+poc_ur_a4) 2
+poc_ur_a5) -4/3
+poc_ur_b1) 0; -log2(19)
+poc_ur_b1_b) -log2(19)
+poc_ur_b2) log2(3); log2(5)
+poc_ur_b2_b) log2(5)
+poc_ur_b3) log3(2); log3(7)
+poc_ur_b3_b) log3(7)
+poc_ur_b4) 1; log3(5)
+poc_ur_b4_b) log3(5)
+poc_ur_b5) 1+sqrt(2); 1-sqrt(2)
+poc_ur_b5_b) 1-sqrt(2)
+poc_ur_c1) -1; (3+2log5(7))/(log5(7)-1)
+poc_ur_c2) 3; 1+log2(3)
+poc_ur_c3) 1; -1
+poc_ur_c4) 0,25; 1+log2(3)
+poc_ur_c5) 81
+log_ur_a1) 2
+log_ur_a2) 9
+log_ur_a3) 1
+log_ur_a4) 0,04
+log_ur_a5) 0,2
+log_ur_b1) 16; -2
+log_ur_b1_b) -2
+log_ur_b2) 2; 2sqrt(2)
+log_ur_b2_b) 2
+log_ur_b3) sqrt(2); -sqrt(2); 0,5; -0,5
+log_ur_b3_b) 0,5; -0,5
+log_ur_b4) 2sqrt(2); 4sqrt(2)
+log_ur_b4_b) 4sqrt(2)
+log_ur_b5) 0,01; 100
+log_ur_b5_b) 0,01
+log_ur_c1) 0,5
+log_ur_c2) 13sqrt(5)/5
+log_ur_c3) 2
+log_ur_c4) (sqrt(21)-3)/6
+log_ur_c5) 3; 3+sqrt(2)
+trg_ur_a1) P/2+2Pn
+trg_ur_a2) -P/2+2Pn
+trg_ur_a3) Pn
+trg_ur_a4) 2Pn
+trg_ur_a5) P+2Pn
+trg_ur_b1) P/2+2Pn
+trg_ur_b2) 2P+4Pn; 2P/3+4Pn; -2P/3+4Pn
+trg_ur_b3) P/4+Pn; -arctg(6)+Pn
+trg_ur_b4) P/8+Pk/2; -1/2arcctg(5)+Pn
+trg_ur_b5) -1/2arcsin(1/3)+Pn; P/2+1/2arcsin(1/3)+Pn
+trg_ur_b1_b) P/2
+trg_ur_b2_b) 2P/3; -2P/3
+trg_ur_b3_b) P/4; P-arctg(6)
+trg_ur_b4_b) -3P/7; -7P/8; -1/2arctg(5); -1/2arctg(5)-P/2
+trg_ur_b5_b) P-1/2arcsin(1/3); P/2+1/2arcsin(1/3)
+trg_ur_c1) P/2-arcsin(4/5)+2Pn
+trg_ur_c2) 2arcsin(2/sqrt(13))+2Pn
+trg_ur_c3) -P/12+Pn; P/4+Pn
+trg_ur_c4) P/4+Pn; P/12+Pn
+trg_ur_c5) arctg(2)+Pn; P/4+Pn; -P/4+Pn
