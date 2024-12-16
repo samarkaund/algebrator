@@ -2,6 +2,6 @@
 
 pip install -r requirements.txt
 
-Версия python:
+Версия python подходящая для запуска:
 
 Python 3.12.4
